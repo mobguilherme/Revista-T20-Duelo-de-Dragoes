@@ -25,7 +25,7 @@ Esse módulo não tem nada de suplementos e muito menos contém a história da c
 
 ### Instalação Manual
 
-1. Visite a [última versão](https://github.com/mobguilherme/Revista-T20-Duelo-de-Dragoes/releases/download/v0.1.0/bestiario-de-arton.zip).
+1. Visite a [última versão](https://github.com/mobguilherme/Revista-T20-Duelo-de-Dragoes/releases/download/v0.1.0/duelo-de-dragoes-rvt20.zip).
 2. Faça o Download do arquivo "BestiariodeArton.zip".
 3. Faça a descompactação do seu arquivo baixado na pasta de módulos do foundry, localizado no Data, caso precise de ajuda, visite: [FoundryVTT Configuration Guide](https://foundryvtt.com/article/configuration/#where-user-data '‌').
 4. Reinicie o Foundry se necessário.
