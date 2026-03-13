@@ -8,7 +8,7 @@ Revista T20 - Duelo de Dragões é uma produção independente e não afiliada n
 
 # O que tem nesse Compendium?
 
-Esse Compendium visa ter os mapas, handouts, tokens e criaturas necessários para rodar a aventura, lembre-se, não iremos dar a história com esse módulo, apenas as coisas mais básicas do VTT para que você não tenha o trabalho e dor de cabeça de ter que fazer isso sozinho e na mão.
+Esse Compendium visa ter somente os tokens e criaturas necessários para rodar a aventura, lembre-se, não iremos dar a história com esse módulo, apenas as coisas mais básicas do VTT para que você não tenha o trabalho e dor de cabeça de ter que fazer isso sozinho e na mão.
 
 # O que NÃO tem nesse Compendium?
 
@@ -25,7 +25,7 @@ Esse módulo não tem nada de suplementos e muito menos contém a história da c
 
 ### Instalação Manual
 
-1. Visite a [última versão](https://github.com/mobguilherme/Revista-T20-Duelo-de-Dragoes/releases/download/v0.1.0/duelo-de-dragoes-rvt20.zip).
+1. Visite a [última versão](https://github.com/mobguilherme/Revista-T20-Duelo-de-Dragoes/releases/download/v0.5.0/duelo-de-dragoes-rvt20.zip).
 2. Faça o Download do arquivo "BestiariodeArton.zip".
 3. Faça a descompactação do seu arquivo baixado na pasta de módulos do foundry, localizado no Data, caso precise de ajuda, visite: [FoundryVTT Configuration Guide](https://foundryvtt.com/article/configuration/#where-user-data '‌').
 4. Reinicie o Foundry se necessário.
